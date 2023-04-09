@@ -1,7 +1,7 @@
 # Hextech Chest/Key Generator
 Thanks for using!
 
-Step 1:
+# How to install and use
 - Install Python from https://python.org
 - Make sure to click "ADD TO PATH" in the bottom left of the installation window
 - Open CMD (Command Prompt) and type "pip install requests"
